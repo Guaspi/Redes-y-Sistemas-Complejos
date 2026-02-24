@@ -11,7 +11,7 @@ En esta práctica se trabaja con NetLogo para simular modelos basados en agentes
 En esta práctica se aplican técnicas de poda para simplificar redes complejas, eliminando elementos poco relevantes y mejorando su interpretación visual, facilitando así el análisis y la identificación de estructuras significativas.
 
 
-**PRÁCTICA 4 - Proyecto personal **
+**PRÁCTICA 4 - Proyecto personal**
 
 Proyecto realizado en Gephi en el que, a partir de transacciones de Bitcoin en tiempo real, se construye una red donde los nodos representan direcciones y las aristas las transacciones entre ellas.
 
