@@ -1,8 +1,8 @@
 **PRÁCTICA 1 – Análisis de red**
 
 En esta práctica se realiza el estudio estructural de una red mediante métricas como grado, centralidad, densidad o componentes conexas, con el objetivo de comprender su organización interna y detectar nodos relevantes.
-**
-PRÁCTICA 2 – NetLogo**
+
+**PRÁCTICA 2 – NetLogo**
 
 En esta práctica se trabaja con NetLogo para simular modelos basados en agentes, analizando el comportamiento dinámico de sistemas complejos y observando cómo surgen patrones globales a partir de interacciones locales.
 
